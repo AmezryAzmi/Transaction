@@ -1,0 +1,23 @@
+body{
+    font-size: 20px;
+}
+.login{
+    display:flex;
+    justify-content: center;
+}
+.login-wrapper{
+    margin-top:100px;
+    width: 50%;
+    background-color: whitesmoke;
+    border: black solid 1px;
+    border-radius: 20px;
+}
+.header{
+    text-align: center;
+}
+.content{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
